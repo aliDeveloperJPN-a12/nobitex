@@ -1,4 +1,4 @@
-watch this website online : (https://nobitex-95p6-ejgorq7tx-alideveloperjpn-a12.vercel.app/)
+watch this website online : (https://nobitex-95p6-7ffrk668v-alideveloperjpn-a12.vercel.app/)
 
 PICS :
 ![Screenshot - 4_9_2023 , 4_23_37 AM](https://user-images.githubusercontent.com/115926291/230769810-2f901d70-0b06-4710-b66f-ca79795cf1ee.png)
