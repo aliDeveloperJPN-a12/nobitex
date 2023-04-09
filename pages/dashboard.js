@@ -25,7 +25,7 @@ export default function Dashboard() {
       </div>
 
       {/* ------------------------------------------------ cards --------------------------------------------- */}
-      <div className="flex xs:flex-wrap xl:flex-nowrap w-full h-[350px] justify-center">
+      <div className="flex fold:flex-wrap xl:flex-nowrap w-full h-[350px] justify-center">
         {/* card price */}
         <div
           className="card  mt-2 mx-1"
@@ -243,7 +243,7 @@ export default function Dashboard() {
 
       {/* --------------------------------- notece : ---------------------------------------- */}
       <div className="w-full h-[50px] p-[40px] pt-[10px] xs:invisible xl:visible mb-4" dir="rtl">
-<div className="border-1 rounded-md bg-[#686868a4] text-[#fff]">
+<div className="border-1 rounded-md bg-[#686868a4] text-[#fff]  fold:invisible xl:flex">
 <p className="mr-[50px]">
           <p className="text-[#FFC107]">اطلاعیه مهم:</p> کاربر گرامی؛ لطفا قبل از واریز رمزارز، حتماً از به روز
           بودن آدرس واریزی خود و انتخاب درست شبکه واریز اطمینان حاصل کنید. در
@@ -258,7 +258,7 @@ export default function Dashboard() {
 
       {/* ------------------------------------------------- section 1 ----------------------------------------------------- */}
       <div
-        className="md:flex md:flex-wrap w-full h-[450px] p-10 justify-center xs:mt-[850px] md:mt-[200px] sm:mt-[500px] lg:mt-[200px] xl:mt-[0px]"
+        className="md:flex md:flex-wrap w-full h-[450px] p-10 justify-center fold:mt-[2000px] xs:mt-[850px] md:mt-[200px] sm:mt-[500px] lg:mt-[200px] xl:mt-[0px] fold:hidden"
         dir="rtl"
       >
         <div className="border-1 rounded-md p-3 md:w-[45%]">
@@ -268,21 +268,21 @@ export default function Dashboard() {
           </div>
           <div className="w-full h-[50px] border-1 mt-1 rounded-md"></div>
           <div className="flex w-full h-[80px] border-1 mt-[200px] rounded-md">
-            <div className="flex w-[50%] mt-[30px] justify-end text-[17px] px-2">
+            <div className="flex w-[50%] mt-[30px] justify-end text-[17px] px-2 fold:text-[8px] sm:text-[12px]">
               ارزش تخمینی دارایی‌ها:
             </div>
             <div className="w-[50%] border-1 h-full rounded-md">
-              <div className="px-1 border-1 h-[50%] pt-2">
+              <div className="px-1 border-1 h-[50%] pt-2 fold:text-[8px] sm:text-[12px] ">
                 پیشنهادهای خرید :
               </div>
-              <div className="px-1 border-1 h-[50%] pt-2">
+              <div className="px-1 border-1 h-[50%] pt-2 fold:text-[8px] sm:text-[12px]">
                 پیشنهادهای فروش :
               </div>
             </div>
           </div>
         </div>
         {/* --------------------------------------- */}
-        <div className="border-1 rounded-md p-3 md:w-[45%] md:mx-5 xs:mt-[20px] md:mt-[0px]">
+        <div className="border-1 rounded-md p-3 md:w-[45%] md:mx-5 xs:mt-[20px] md:mt-[0px] fold:hidden md:inline">
           <div className="flex w-full mb-3">وضعیت حساب کاربری</div>
           <div className="flex w-full mb-1 border-1 p-2 rounded-md h-[40px]">
             سطح کاربری: سطح صفر-ادامه فرایند احراز هویت ارتقا
@@ -310,7 +310,7 @@ export default function Dashboard() {
       {/* ------------------------------------------------- section 1 ----------------------------------------------------- */}
       {/* ------------------------------------------------- section 2 ----------------------------------------------------- */}
       <div
-        className="lg:flex lg:flex-wrap w-full h-[200px] p-10 justify-center xs:mt-[400px] md:mt-[0px]"
+        className="lg:flex lg:flex-wrap w-full h-[200px] p-10 justify-center xs:mt-[400px] md:mt-[0px] fold:hidden"
         dir="rtl"
       >
         <div className="border-1 rounded-md p-3 lg:w-[45%]">
@@ -385,7 +385,7 @@ export default function Dashboard() {
 
       {/* ---------------------------------------------سفارشات------------------------------------------------- */}
 
-      <Footer mt={"xs:mt-[500px] md:mt-[150px]"} />
+      <Footer mt={"fold:mt-[2000px] xs:mt-[800px] md:mt-[150px]"} />
     </div>
   );
 }
