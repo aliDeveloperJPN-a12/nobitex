@@ -11,6 +11,7 @@ export default function Navbar(props) {
             src={sampleImage}
             width="120"
             style={{ height: "35px" }}
+            alt="lll"
           />
           <ul className="flex w-full">
             <li className="hover:text-[#936BAF] mr-[30px] mt-[25px] xs:text-[8px] sm:text-[10px] md:text-[10px] lg:text-[20px]">

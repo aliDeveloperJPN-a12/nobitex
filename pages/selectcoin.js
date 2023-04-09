@@ -39,6 +39,8 @@ export default function Selectcoin() {
                 src={sampleImage}
                 width="50"
                 style={{ height: "35px" }}
+            alt="lll"
+
               />
             </span>
             <span className="mt-[15px] xs:mr-[30px] md:mr-[100px] lg:mr-[200px]">1,460,000,000</span>
@@ -64,6 +66,8 @@ export default function Selectcoin() {
                 src={sampleImage}
                 width="50"
                 style={{ height: "35px" }}
+            alt="lll"
+
               />
             </span>
             <span className="mt-[15px] xs:mr-[30px] md:mr-[100px] lg:mr-[200px]">1,460,000,000</span>
@@ -89,6 +93,8 @@ export default function Selectcoin() {
                 src={sampleImage}
                 width="50"
                 style={{ height: "35px" }}
+            alt="lll"
+
               />
             </span>
             <span className="mt-[15px] xs:mr-[30px] md:mr-[100px] lg:mr-[200px]">1,460,000,000</span>
@@ -114,6 +120,8 @@ export default function Selectcoin() {
                 src={sampleImage}
                 width="50"
                 style={{ height: "35px" }}
+            alt="lll"
+
               />
             </span>
             <span className="mt-[15px] xs:mr-[30px] md:mr-[100px] lg:mr-[200px]">1,460,000,000</span>
@@ -139,6 +147,8 @@ export default function Selectcoin() {
                 src={sampleImage}
                 width="50"
                 style={{ height: "35px" }}
+            alt="lll"
+
               />
             </span>
             <span className="mt-[15px] xs:mr-[30px] md:mr-[100px] lg:mr-[200px]">1,460,000,000</span>
@@ -164,6 +174,8 @@ export default function Selectcoin() {
                 src={sampleImage}
                 width="50"
                 style={{ height: "35px" }}
+            alt="lll"
+
               />
             </span>
             <span className="mt-[15px] xs:mr-[30px] md:mr-[100px] lg:mr-[200px]">1,460,000,000</span>
@@ -189,6 +201,8 @@ export default function Selectcoin() {
                 src={sampleImage}
                 width="50"
                 style={{ height: "35px" }}
+            alt="lll"
+
               />
             </span>
             <span className="mt-[15px] xs:mr-[30px] md:mr-[100px] lg:mr-[200px]">1,460,000,000</span>
@@ -214,6 +228,8 @@ export default function Selectcoin() {
                 src={sampleImage}
                 width="50"
                 style={{ height: "35px" }}
+            alt="lll"
+
               />
             </span>
             <span className="mt-[15px] xs:mr-[30px] md:mr-[100px] lg:mr-[200px]">1,460,000,000</span>
@@ -239,6 +255,8 @@ export default function Selectcoin() {
                 src={sampleImage}
                 width="50"
                 style={{ height: "35px" }}
+            alt="lll"
+
               />
             </span>
             <span className="mt-[15px] xs:mr-[30px] md:mr-[100px] lg:mr-[200px]">1,460,000,000</span>
@@ -264,6 +282,8 @@ export default function Selectcoin() {
                 src={sampleImage}
                 width="50"
                 style={{ height: "35px" }}
+            alt="lll"
+
               />
             </span>
             <span className="mt-[15px] xs:mr-[30px] md:mr-[100px] lg:mr-[200px]">1,460,000,000</span>
