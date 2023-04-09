@@ -1,3 +1,15 @@
+watch this website online : (https://nobitex-95p6-ejgorq7tx-alideveloperjpn-a12.vercel.app/)
+
+PICS :
+![Screenshot - 4_9_2023 , 4_23_37 AM](https://user-images.githubusercontent.com/115926291/230769810-2f901d70-0b06-4710-b66f-ca79795cf1ee.png)
+![Screenshot - 4_9_2023 , 4_23_44 AM](https://user-images.githubusercontent.com/115926291/230769814-0872de8b-129c-4024-bb54-7326641e9d06.png)
+![Screenshot - 4_9_2023 , 4_23_47 AM](https://user-images.githubusercontent.com/115926291/230769816-1df04c94-5a73-4b88-af22-a9b4fe822c80.png)
+![Screenshot - 4_9_2023 , 4_23_52 AM](https://user-images.githubusercontent.com/115926291/230769821-480d20e1-b009-48b1-a45e-0057a810cf0d.png)
+![Screenshot - 4_9_2023 , 4_23_58 AM](https://user-images.githubusercontent.com/115926291/230769827-87d3193b-7465-41bf-b07e-32bba4b528a5.png)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
